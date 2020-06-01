@@ -22,4 +22,4 @@ if __name__ == '__main__':
         months += 1
 
     print('Total paid', total_paid)
-    print('Months', months)
+    print('Months ', months)
